@@ -17,7 +17,7 @@ In collaboration with a team member, I conducted the analysis using Python. Our 
 
 ### Tableau Dashboard (Appendix 2)
 [__VIEW DASHBOARD ON TABLEAU PUBLIC__](https://public.tableau.com/app/profile/mattia.bieler/viz/BankSpeechesProjectDashboard/BoEDashboard)
-![Bank_Speeches_Project_Dashboard](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project/assets/132078605/61d97bb0-7502-438d-a0a5-5b7ba81a9b9b)
+![Bank_Speeches_Project_Dashboard](https://github.com/Mattia-Bieler/Bank_Speeches_Impact_Project/assets/132078605/96ad94fa-fe0d-4336-b715-9a510e395b44)
 
 I took the initiative to conceptualise, design, and implement a comprehensive Tableau dashboard that functioned as a dynamic visualisation tool for our team. The impetus behind the creation of this dashboard originated from my own decision-making process, driven by valuable stakeholder feedback received after our initial pitch.
 
