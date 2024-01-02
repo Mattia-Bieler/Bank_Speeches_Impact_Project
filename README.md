@@ -23,6 +23,7 @@ I took the initiative to conceptualise, design, and implement a comprehensive Ta
 
 ### Report and Presentation
 [__READ REPORT__](https://documentcloud.adobe.com/gsuiteintegration/index.html?state=%7B%22ids%22%3A%5B%221l9o1-h-K8u8ZPcn_QCo0l8qr5idRtT_k%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108790922688032162431%22%2C%22resourceKeys%22%3A%7B%7D%7D)
+
 [__WATCH PRESENTATION__](https://drive.google.com/file/d/1dd_MTN33lVUw6xl70Wd9iQBrAXgI-IUr/view?usp=sharing)
 
 During the final week of the project, I assumed a leadership role within the team, taking charge of coordinating our collective efforts. I organised and led regular team meetings, fostering open communication and a collaborative environment. In these sessions, I actively monitored the progress of each team member, ensuring everyone remained updated on their tasks and responsibilities. This proactive approach streamlined our workflow, maintaining a high level of efficiency as we approached project completion.
